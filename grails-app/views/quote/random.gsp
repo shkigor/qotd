@@ -9,7 +9,8 @@
 <html>
 <head>
     <title>Random Quote</title>
-    <g:javascript library="jquery"/>
+    %{--<g:javascript library="jquery"/>--}%
+    <g:javascript library="jquery" plugin="jquery"/>
 </head>
 
 <body>

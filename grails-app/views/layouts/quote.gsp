@@ -11,7 +11,7 @@
     <title>QOTD &raquo; <g:layoutTitle/></title>
     <g:external dir="css" file="snazzy.css"/>
     <g:layoutHead/>
-    <r:layoutResources/>
+    %{--<r:layoutResources/>--}%
 </head>
 
 <body>
